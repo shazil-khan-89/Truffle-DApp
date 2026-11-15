@@ -9,7 +9,6 @@
 | **Roll No** | 24i-5557 |
 | **Class** | FT-05A (BSFT, 5th semester, Fall 2026) |
 | **Instructor** | Dr. Usama Arshad |
-| **GitHub repository** | `https://github.com/<username>/PropertyRegistry-Truffle` |
 
 ---
 
